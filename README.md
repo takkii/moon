@@ -6,22 +6,8 @@
 
 Python3により簡潔に、リスト型を返したテキスト処理を読み込ませました。
 
-高速も安定もあります。
+従来通りDeinから入れる方法と、PyPIを利用する方法があります。
 
-MITライセンスです。著者は上山孝幸です。
+リスト型に内蔵で単語を生成しているので、高速も安定もあります。
 
-[ Moon/Geturin/月/月輪 ](https://pypi.org/project/geturin/)
-
-```markdown
-[ インストール ]
-
-pip install geturin
-
-[ .vimrc/init.vim ]
-
-(例は、Python3をDドライブに入れたと仮定)
-
-set runtimepath+=D:/Python3/Lib/site-packages/geturin/moon.py
-```
-
-※ 新しい試みとして、PyPIからもインストールできました。
+月または月輪は、MITライセンスです。著者は上山孝幸です。
