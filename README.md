@@ -22,4 +22,4 @@ Python3により簡潔に、リスト型を返したテキスト処理を読み�
 
 MITライセンスです。著者は上山孝幸です。
 
-[Moon /Geturin / 月 / 月輪] (https://pypi.org/project/geturin/)
+[ Moon/Geturin/月/月輪 ](https://pypi.org/project/geturin/)
