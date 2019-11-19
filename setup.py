@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-from setuptools import setup, find_packages
+from setuptools import setup
 from codecs import open
 from os import path
 
@@ -12,14 +12,12 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='geturin',
-    version='1.0.0',
-    description='Deoplete dictionary list',
-    long_description=long_description,
+    packages=['geturin'],
+    version='1.0.0.1',
     url='https://github.com/takkii/moon',
     author='takkii',
     author_email='karuma.reason@gmail.com',
     license='MIT',
-    keywords='geturin',
     #packages=find_packages(exclude=('tests')),
     #install_requires=['', ''],é
     #entry_points={
@@ -27,6 +25,9 @@ setup(
     #        "moon=moon.__init__:main",
     #    ],
     #},
+    description='Bignyanco clone deoplete dictionary list.',
+    long_description=long_description,
+    keywords='geturin',
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.5',

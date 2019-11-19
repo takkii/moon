@@ -1,7 +1,7 @@
 Metadata-Version: 1.1
 Name: geturin
-Version: 1.0.0
-Summary: Deoplete dictionary list
+Version: 1.0.0.1
+Summary: Bignyanco clone deoplete dictionary list.
 Home-page: https://github.com/takkii/moon
 Author: takkii
 Author-email: karuma.reason@gmail.com
@@ -29,6 +29,8 @@ Description: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.sv
         高速も安定もあります。
         
         MITライセンスです。著者は上山孝幸です。
+        
+        [ Moon/Geturin/月/月輪 ](https://pypi.org/project/geturin/)
         
 Keywords: geturin
 Platform: UNKNOWN

@@ -23,3 +23,17 @@ Python3により簡潔に、リスト型を返したテキスト処理を読み�
 MITライセンスです。著者は上山孝幸です。
 
 [ Moon/Geturin/月/月輪 ](https://pypi.org/project/geturin/)
+
+```markdown
+[ インストール ]
+
+pip install geturin
+
+[ .vimrc/init.vim ]
+
+(例は、Python3をDドライブに入れたと仮定)
+
+set runtimepath+=D:/Python3/Lib/site-packages/geturin/moon.py
+```
+
+※ 新しい試みとして、PyPIからもインストールできました。
