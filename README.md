@@ -21,3 +21,5 @@ Python3により簡潔に、リスト型を返したテキスト処理を読み�
 高速も安定もあります。
 
 MITライセンスです。著者は上山孝幸です。
+
+[Moon/Geturin/月/月輪]https://pypi.org/project/geturin/
