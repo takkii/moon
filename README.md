@@ -2,18 +2,6 @@
 
 ### Moon moonの派生版
 
-[ 表示 ]
-
-```markdown
-dark_dictionary
-```
-
-[ dein.toml ]
-
-```markdown
-repo = 'takkii/moon'
-```
-
 ねこだるま（大きなねこ）が英語ならば、月は日本語で書きます。
 
 Python3により簡潔に、リスト型を返したテキスト処理を読み込ませました。
