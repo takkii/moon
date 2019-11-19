@@ -19,7 +19,7 @@ setup(
     author_email='karuma.reason@gmail.com',
     license='MIT',
     #packages=find_packages(exclude=('tests')),
-    #install_requires=['', ''],é
+    #install_requires=['', ''],
     #entry_points={
     #    "console_scripts": [
     #        "moon=moon.__init__:main",
