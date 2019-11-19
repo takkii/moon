@@ -11,3 +11,13 @@ Python3により簡潔に、リスト型を返したテキスト処理を読み�
 リスト型に内蔵で単語を生成しているので、高速も安定もあります。
 
 月または月輪は、MITライセンスです。著者は上山孝幸です。
+
+```markdown
+
+pip3 install geturin
+
+```
+
+how to use
+
+[releases](https://github.com/takkii/moon/releases)
