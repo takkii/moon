@@ -19,4 +19,4 @@ Python3により簡潔に、リスト型を返したテキスト処理を読み�
 月または月輪は、MITライセンスです。著者は上山孝幸です。
 
 
-how to use page → [releases](https://github.com/takkii/moon/releases)
+how to use page → [releases](https://github.com/takkii/moon/releases) | [pepy](https://pepy.tech/project/geturin)
