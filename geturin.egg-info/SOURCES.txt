@@ -1,7 +1,0 @@
-README.md
-setup.py
-geturin/moon.py
-geturin.egg-info/PKG-INFO
-geturin.egg-info/SOURCES.txt
-geturin.egg-info/dependency_links.txt
-geturin.egg-info/top_level.txt
